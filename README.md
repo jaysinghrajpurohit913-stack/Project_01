@@ -1,8 +1,7 @@
 # Todo App
 
 ## Project URL
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-
+https://github.com/jaysinghrajpurohit913-stack/Project_01
 ## Description
 A simple Todo application with create, update, update, and delete functionality.
 
