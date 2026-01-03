@@ -1,3 +1,13 @@
+# Todo App
+
+## Project URL
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+
+## Description
+A simple Todo application with create, update, update, and delete functionality.
+
+
+
 1.first created server in app
 2.now in src root folder create :-
              models folder :- USER MODEL - CREATED USER SCHEMA
